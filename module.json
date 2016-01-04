@@ -18,6 +18,9 @@
   "targetDependencies": {
     "stm32f4": {
       "cmsis-core-stm32f4": "^1.0.0"
+    },
+     "stm32l4": {
+      "cmsis-core-stm32l4": "carmelomigliore/cmsis-core-stm32l4"
     }
   }
 }
